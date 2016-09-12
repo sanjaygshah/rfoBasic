@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res"/><source path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\build\generated\res\rs\debug"/><source path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res"><file name="blank" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\drawable\blank.png" qualifiers="" type="drawable"/><file name="splash" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\drawable\splash.png" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="camera" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\camera.xml" qualifiers="" type="layout"/><file name="console" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\console.xml" qualifiers="" type="layout"/><file name="debug_dialog_layout" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\debug_dialog_layout.xml" qualifiers="" type="layout"/><file name="debug_list_layout" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\debug_list_layout.xml" qualifiers="" type="layout"/><file name="debug_list_s_layout" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\debug_list_s_layout.xml" qualifiers="" type="layout"/><file name="device_list" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\device_list.xml" qualifiers="" type="layout"/><file name="device_name" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\device_name.xml" qualifiers="" type="layout"/><file name="editor" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\editor.xml" qualifiers="" type="layout"/><file name="get_sc_parms" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\get_sc_parms.xml" qualifiers="" type="layout"/><file name="search" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\search.xml" qualifiers="" type="layout"/><file name="simple_list_layout" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\simple_list_layout.xml" qualifiers="" type="layout"/><file name="simple_list_layout_1" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\simple_list_layout_1.xml" qualifiers="" type="layout"/><file name="simple_list_layout_l" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\simple_list_layout_l.xml" qualifiers="" type="layout"/><file name="simple_list_layout_m" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\simple_list_layout_m.xml" qualifiers="" type="layout"/><file name="simple_list_layout_s" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\simple_list_layout_s.xml" qualifiers="" type="layout"/><file name="splash" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\splash.xml" qualifiers="" type="layout"/><file name="text_input" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\text_input.xml" qualifiers="" type="layout"/><file name="tget" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\tget.xml" qualifiers="" type="layout"/><file name="web" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout\web.xml" qualifiers="" type="layout"/><file name="get_sc_parms" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout-land\get_sc_parms.xml" qualifiers="land" type="layout"/><file name="search" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\layout-land\search.xml" qualifiers="land" type="layout"/><file name="editor" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\menu\editor.xml" qualifiers="" type="menu"/><file name="run" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\menu\run.xml" qualifiers="" type="menu"/><file name="editor" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\menu-v11\editor.xml" qualifiers="v11" type="menu"/><file path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="esvalues_list_preference">
+        <item>BW</item>
+        <item>WB</item>
+        <item>WBL</item>
+    </string-array><string-array name="csf_list_preference">
+        <item>Monospace</item>
+        <item>Sans Serif</item>
+        <item>Serif</item>
+    </string-array><string-array name="empty_console_values_list_preference">
+        <item>background</item>
+        <item>line</item>
+    </string-array><string-array name="base_drive_names">
+        <item>/mnt/sdcard</item>
+        <item>/mnt/sdcard</item>
+    </string-array><string-array name="es_list_preference">
+        <item>Black Text On White Screen</item>
+        <item>White Text on Black Screen</item>
+        <item>White Text on Blue Screen</item>
+    </string-array><string-array name="empty_console_list_preference">
+        <item>Use text background color</item>
+        <item>Use separator line color</item>
+    </string-array><string-array name="fontvalues_list_preference">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array><string-array name="orientation_list_preference">
+        <item>Variable By Sensors</item>
+        <item>Fixed Landscape</item>
+        <item>Fixed Reverse Landscape</item>  
+        <item>Fixed Portrait</item>  
+        <item>Fixed Reverse Portrait</item>  
+    </string-array><string-array name="font_list_preference">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array><string-array name="base_drive_values">
+        <item>/mnt/sdcard</item>
+    </string-array><string-array name="csfvalues_list_preference">
+        <item>MS</item>
+        <item>SS</item>
+        <item>S</item>
+    </string-array><string-array name="orientationvalues_list_preference">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array></file><file path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\values\setup.xml" qualifiers=""><string name="app_path">rfo-basic</string><string-array name="loading_msg">
+        <item>Standby for initial file loading.</item>
+    </string-array><string name="app_name">BASIC!</string><string-array name="load_file_names">
+    </string-array><integer name="color1">0xff000000</integer><integer name="splash_time">1500</integer><string name="progress_marker">.</string><bool name="is_apk">false</bool><bool name="apk_create_data_dir">true</bool><bool name="splash_display">true</bool><bool name="apk_create_database_dir">true</bool><integer name="color4">0xff00c000</integer><integer name="color3">0xff006478</integer><integer name="color2">0xffffffff</integer><string name="run_name">BASIC! Program Output</string><string name="version">01.90.01</string><string name="textinput_name">BASIC! Text Input</string><string name="select_name">BASIC! Select</string><bool name="apk_programs_encrypted">false</bool><string name="my_program">my_program.bas</string><color name="splash_color">#FFFFFF</color></file><file path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\values\strings.xml" qualifiers=""><string name="web_view_name">Web View</string><string name="select_device"> Select Device</string><string name="delete_button_label">Delete</string><string name="pref_MAB_run_title">RUN on action bar</string><string name="choose_one">Choose one</string><string name="editor">Editor</string><string name="pref_MAB_clear_key">editor_menu_clear_on_action_bar</string><string name="no_shortcut_name">You have not entered a name for the shortcut.</string><string name="debug_name">BASIC! Debugger</string><string name="gr_name">Graphics</string><string name="intro_getline">BASIC! Shortcut Builder</string><string name="exit">Exit</string><string name="pref_MAB_load_key">editor_menu_load_on_action_bar</string><string name="delete_name">BASIC! Delete File</string><string name="stop">Stop</string><string name="pref_MAB_run_key">editor_menu_run_on_action_bar</string><string name="delete">Delete</string><string name="ok_button_label">OK</string><string name="settings_name">BASIC! Preferences</string><string name="pref_MAB_load_title">LOAD on action bar</string><string name="pref_MAB_exit_title">EXIT on action bar</string><string name="run">Run</string><string name="no_icon">Could not create icon from icon file.</string><string name="color_chars">0123456789abcdefxABCDEFX#</string><string name="save_run">Save and Run</string><string name="instr_1">Select Cancel to go back to setup</string><string name="no_prog_file">The BASIC! program file does not exist (you can create it later).</string><string name="instr_2">or OK to try to create the shortcut anyway.</string><string name="spawn">Create Application</string><string name="search_name">BASIC! Search</string><string name="help">Commands</string><string name="edit_button_label">Edit</string><string name="pref_MAB_search_key">editor_menu_search_on_action_bar</string><string name="pref_MAB_exit_key">editor_menu_exit_on_action_bar</string><string name="no_button_label">No</string><string name="pref_MAB_clear_title">CLEAR on action bar</string><string name="no_prog_name">You have not entered a BASIC! program name.</string><string name="enter_text3_label">Shortcut Name</string><string name="pref_MAB_save_summary">Show SAVE on action bar if it fits</string><string name="enter_text_label">Program File Name</string><string name="clear">Clear</string><string name="pref_MAB_summary">Editor menu items to show on action bar</string><string name="format">Format</string><string name="stt_prompt">"BASIC! Speech To Text"</string><string name="no_icon_file">The icon file does not exist.</string><string name="settings">Preferences</string><string name="pref_MAB_clear_summary">Show CLEAR on action bar if it fits</string><string name="title_paired_devices">Paired Devices</string><string name="pref_MAB_search_summary">Show SEARCH on action bar if it fits</string><string name="help_name">BASIC! Commands</string><string name="enter_text2_label">Icon File Name</string><string name="pref_MAB_save_title">SAVE on action bar</string><string name="format_name">BASIC! Format</string><string name="pref_MAB_save_key">editor_menu_save_on_action_bar</string><string name="pref_MAB_search_title">SEARCH on action bar</string><string name="no_icon_name">You have not entered an icon file name.</string><string name="button_scan">Scan</string><string name="pause">Pause</string><string name="hex_color">Enter a hex color value</string><string name="load_run">Load and Run</string><string name="load_name">BASIC! Load File</string><string name="about">About</string><string name="hello">Hello World, BASIC!</string><string name="title_other_devices">Other Devices</string><string name="none_paired">No Paired Devices</string><string name="play_sound_name"> </string><string name="yes_button_label">Yes</string><string name="save">Save</string><string name="none_found">None Found</string><string name="scanning">Scanning</string><string name="pref_MAB_title">Menu Items on Action Bar</string><string name="pref_MAB_run_summary">Show RUN on action bar if it fits</string><string name="pref_MAB_load_summary">Show LOAD on action bar if it fits</string><string name="load">Load</string><string name="pref_MAB_key">editor_items_on_action_bar</string><string name="search">Search</string><string name="editor_name">BASIC! Program Editor</string><string name="cancel_button_label">Cancel</string><string name="pref_MAB_exit_summary">Show EXIT on action bar if it fits</string></file><file path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\values\styles.xml" qualifiers=""><style name="review_list">
+		<item name="android:background">#000000</item>
+	</style><style name="intro_getline_l">
+		<item name="android:textSize">12sp</item>
+		<item name="android:textColor">#ee7620</item>
+		<item name="android:textStyle">bold</item>
+	</style><style name="label_l">
+		<item name="android:textSize">15sp</item>
+		<item name="android:textColor">#ffffff</item>
+	</style><style name="label">
+		<item name="android:textSize">18sp</item>
+		<item name="android:textColor">#ffffff</item>
+	</style><style name="edit_text">
+		<item name="android:textSize">18sp</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:background">#ffffff</item>
+		
+	</style><style name="edit_text_l">
+		<item name="android:textSize">15sp</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:background">#ffffff</item>
+		<item name="android:textCursorDrawable">@null</item>	
+	</style><style name="intro_getline">
+		<item name="android:textSize">20sp</item>
+		<item name="android:textColor">#ee7620</item>
+		<item name="android:textStyle">bold</item>
+	</style></file><file name="settings" path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\main\res\xml\settings.xml" qualifiers="" type="xml"/></source><source path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\build\generated\res\rs\debug"/><source path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\src\debug\res"/></dataSet><mergedItems/></merger>

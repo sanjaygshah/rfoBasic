@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="eba932b5bcd34b17d780a706d4a21b4830494d7a">
+        <dex dex="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06d439b5c33ad5b12be9672497ea4e9447c4467c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d047dabc6db84e0b80794d212224924568b89143">
+        <dex dex="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_37df1d066abd4973e3252caab75fddb1b438bb2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\libs\commons-net-3.0.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="C:\Users\riya\creative activities\Documents\GitHub\Basic2\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-net-3.0.1_1cb3e036f92b3509d13cdbbb9c8818302f5f2fdf\classes.dex" />
+    </item>
+
+</items>
